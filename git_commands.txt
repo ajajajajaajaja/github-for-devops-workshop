@@ -1,1 +1,15 @@
-this is new changes
+git status
+git add .
+rm testing.py
+git restore testing.py
+git remote add origin https://
+git remote -v
+git push origin master
+git pull origin master
+clear
+git remote set-url origin https://
+git commit -m
+git init
+
+this is new changes in my files
+
