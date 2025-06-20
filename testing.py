@@ -11,4 +11,3 @@ def hello():
 # Function call should be outside if needed
 if __name__ == "__main__":
     print(hello())
-
