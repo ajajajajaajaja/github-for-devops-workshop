@@ -11,13 +11,3 @@ git remote set-url origin https://
 git commit -m
 git init
 
-this is new changes in my files
-how are you
-
-this is new changes in my files
-how are you
-when wil your college start?
-I thnin your college will start 7th july
-who are the best
-i am the best forever
-
